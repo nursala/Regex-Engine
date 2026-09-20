@@ -10,5 +10,9 @@ files:
   - name: tests.py
     learner_created: false
 feedback_link: https://hyperskill.org/projects/114/stages/624/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Sun, 20 Sep 2026 02:24:36 UTC"
 record: -1
